@@ -79,3 +79,9 @@ That is, the minimal attachment principle states that the parser should build th
   - understanding and revising takes time, and it is not economical during a dialog.
 
 Utku Turk, Apr 7, '18
+
+## The Questions
+- Do you think it would be a good idea to check the head-position effect as Ferreria, Christianson, and Hollingworth suggest for further research in Turkish? Maybe not the same examples, but with different examples containing long dependencies so that we see that as the commitment increases, so does the misanalysis.
+- Do you think Turkish şey is a filler? Would it also act like the ones in the experiment. I think it is a filler, but also more than a fillers like well, eeerr in English. It almost have a referrent that has not arrived yet in sentences. I think it would act differently than normal fillers. 
+- as you can see I am looking for topics for my paper.
+- So reparandum stays as it is, meaning GE approach has parallel parser characteristics. And GE has "minimal attachment"esque characteristics. So, can we stay it is somewhere in between? Or it is just out of this framework. Reading the papers, I had the feeling that Ferreria somewhat saying "Oh, they have been doing it all wrong, they have been looking at it from the wrong way." How true is that?
